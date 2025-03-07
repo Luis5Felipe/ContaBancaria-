@@ -26,7 +26,6 @@ git clone git@github.com:Luis5Felipe/ContaBancaria.git
 ### Navegue até o diretório do projeto:
 
 ```
-cd ContaBancaria
 cd src
 ```
 
